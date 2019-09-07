@@ -1,1 +1,123 @@
-<?php /*** PHP Encode v1.0 by zeura.com ***/ $XnNhAWEnhoiqwciqpoHH=file(__FILE__);eval(base64_decode("aWYoIWZ1bmN0aW9uX2V4aXN0cygiWWl1bklVWTc2YkJodWhOWUlPOCIpKXtmdW5jdGlvbiBZaXVuSVVZNzZiQmh1aE5ZSU84KCRnLCRiPTApeyRhPWltcGxvZGUoIlxuIiwkZyk7JGQ9YXJyYXkoNjU1LDIzNiw0MCk7aWYoJGI9PTApICRmPXN1YnN0cigkYSwkZFswXSwkZFsxXSk7ZWxzZWlmKCRiPT0xKSAkZj1zdWJzdHIoJGEsJGRbMF0rJGRbMV0sJGRbMl0pO2Vsc2UgJGY9dHJpbShzdWJzdHIoJGEsJGRbMF0rJGRbMV0rJGRbMl0pKTtyZXR1cm4oJGYpO319"));eval(base64_decode(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH)));eval(ZsldkfhGYU87iyihdfsow(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,2),YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,1)));__halt_compiler();aWYoIWZ1bmN0aW9uX2V4aXN0cygiWnNsZGtmaEdZVTg3aXlpaGRmc293Iikpe2Z1bmN0aW9uIFpzbGRrZmhHWVU4N2l5aWhkZnNvdygkYSwkaCl7aWYoJGg9PXNoYTEoJGEpKXtyZXR1cm4oZ3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoJGEpKSk7fWVsc2V7ZWNobygiRXJyb3I6IEZpbGUgTW9kaWZpZWQiKTt9fX0=1b9e8ce2f20a69c6c38910d0b00c3a67590a2f4a3VfdUhs3FL6GGd5B2fHEZgJe24tJB2o6C5jg4NiOvSQlkNmRd2Vb9v5lpQVMzUX7DH2B5ra9yF17TSYvkifpkdb2mhCgYdIMrX+kXen86dPROUepNvY8EqISUhbmj3Kadphb1wrux19/vle/sW35dW3FRbMfEz6zL9cRqjCpmpIcHhA8mzeQm0foSEWqGrMBNVo2F8X/8/SqkHlkLoFUYIH/kXw31f8kpOjR8vQ7+3w9w+jVqD6qjcrQo1Fr9Hy0P9JH26O7arjncOXd9+8+/PXht4vf97BLEac2HqA2CTn2ut3I66I+PsFtNMvQpwOMGOliByMc4CDy0BCoESdhH9sUBdiGiQEMY8/G9xsGZX1hvhN5Fqe+h9oR5pbvdTKLPy3Mzy3ME6vnI2WycM19hlk0wB7aLOvNcrO0sYHWkBCQahMcyrDDQ+pmOl3CWaZlbFdqi4tiWsikXRaFGEhwGOJhZmE+vUmAJ41KG2jMvzAvqOGcPiNel3iWbxNkY46RSzwJbJ/5HogTXYc6BISJRzMmzcyoWUJPW/Wa2WiWDeMAukrNEKInwofUDWAZUvZA6HCwi8R++xxnYyVCvhlE3AShnHiwnnQiXtKkl9DUEiF8DJYnADkf69oRVgqi2EGwAM+mbWxhlOlEjgOuwntISoB1jdekfKJImbHcBn/jQkpnIhn4BjE9aCnJcRPwT+xOTQycyiAS2cvrTQkwYhES05gok8hegr2NSLxBLnGFq6DYUNTGYbQwTzsoM5FyqMjNVV6jEpiEHUaER7Eh48TNKJYD261MMUvFSQteE/+bYHgry/8V5OmhKghjlewVZLNKbPIdIShcwuALIShcj0HhH4NQuBaFwhf5WuFQafjU47GzGYJRRK/LsSvvHibZ6/2fyfDrZHhTBP2oDboc3EMepIF+1wO9zhDhPkYJD9rWW3oTvarXyi3kRA8eJFNHXhwAxuov3rW2mpWGgco/NirN8valyQnXqnvxTt83dutNtHkAETUmimnuZVqX5p1SnhzTWw8qip0idUxt4gvX63EesDVVxTazwFFcYlOctXwXBk6w46g4oGoQtR3KeiRUC8XcalENQl+4mFosrBTViME4J8Pwu/7jnspD7DEssxiTfvYDCDAHZFgyjvsr21tO/oCcNvqe0zyhza5R2NLpc733Yu/5q+5T+/SJhnN1p9/LB2dFvR3taZX6XvF4X3toRWEI2WVoYrsfMQ55iJfyD23CrJAGQllJLmjziSJ9NQUOOfh6q3sT9s+GnLBvuTotJ5Zy0hPHPsPHh+mGsyROIfnscYLzb+GQolYUHhOauDR6//bjL39cvBUjzCEkyOQXv9Xk5HjOEMRfGUwotWHzdFmfKIXVVWUJ2qJsNdmuQLuaeyzbVdkWZRuPa8q42Ik8LkuLEpLPmYlwMd3xQwhdlKJSbh2J/vuEQQ48eiQQF6hCYOzgyOEmpy458z1iMsIzaZ1RrD6FEA/RKi01CmJQJrpMeneNrrF0vLI5iKm2XNQkg4AVh6BknD3m5Fjb9yIm80Eg4mipmFPGCWg6IfxZuHMQZCFbdAgBZ85SW/rxsaYyscVDpsbqwMltKnwVO6aUKEvEHsE2Cdm0AFycGTx8LZTsg88v61D48TXkD4RKVcvmV7J55QqpHvGeH9IzLNRADZqdJMurlJZFAr5cFiUi9bprULAHDrUko5pkvZTVE9sVhY5JvXFkk28AuR/AFlq9JbS136zWG4YJHdR+MTo3Eu7Uq9X6y2p9Szcq9VqS1a5lgHp1v1kzmnqttVNuLqH8jdSNesu4jabVqpovys3KzkGjLCTmbqTeNYzGblnfFpQTHG81YadSrm63gCFxJrm5IWHwpk1wJafEEszj6qbP3mifVgBjjgSoOwWeFhwnKmoXF0ccISv0fX6GIKUrn5GYsMkiAtL5TJ5fi5O+pq3nXfAxYfKh4g5jr2aiBovDiSxHrsyiDfS4mMvl7liOvKQMajhGORq4nZBwWYQMiAsF0ABun67v+QDsIApQNuFvVaoVA1X3Z6sVeXykUSJKXLXz0g1t9oImEYkvaDH7V7ug/bv3s1uvZ9PiZe6cwN1E7M/c+SQrFIrTsub8bw==
+<?php
+$banner = "
+\033[0;32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+\033[1;34m             ____         ___
+\033[1;34m            / __/_ ______/ _/__ ___
+\033[1;34m           _\ \/ // / __/ _/ -_) -_)
+\033[1;34m          /___/\_,_/_/ /_/ \__/\__/
+\033[0;32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+\033[1;34m              +-+-+-+-+-+ +-+-+-+-+-+
+\033[1;34m              |Z|O|N|E|Z| |S|Q|U|A|D|
+\033[1;34m              +-+-+-+-+-+ +-+-+-+-+-+
+\033[0;32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+\033[1;31mðŸš«Kami tidak bertanggung jawab
+\033[1;31mjika segala apapun yang terjadi pada akun anda
+\033[0;32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+";
+
+function buatconf()
+{
+    echo "\033[1;33mMasukan BEARER=>> : ";
+    $bearer     = trim(fgets(STDIN));
+    $configsura = array('Berer' => $bearer);
+    $jsonfile   = json_encode($configsura, JSON_PRETTY_PRINT);
+    file_put_contents('configsura.json', $jsonfile);
+    echo "\n";
+}
+
+$file      = "configsura.json";
+$konfigson = file_get_contents($file);
+$datason   = json_decode($konfigson, true);
+
+if ($datason["Berer"] == false){
+    system("clear");
+    echo $banner;
+    buatconf();
+}
+
+system("clear");
+echo $banner;
+
+
+$file       = "configsura.json";
+$konfigson  = file_get_contents($file);
+$datason    = json_decode($konfigson, true);
+$bearer2    = "".$datason["Berer"]."";
+$file2      = "configsur.json";
+$konfigson2 = file_get_contents($file2);
+$datason2   = json_decode($konfigson2, true);
+
+if ($datason2["Point"] == True){
+    echo "\033[1;31m[\033[1;34m÷\033[1;31m]\033[1;34mBertaubat lah nak jgn coly aja \033[1;31m DASAR ZONES lu!!\033[1;31m\n\n";
+    echo "°SCRIPT EXPIRED\n";
+    echo "\033[1;36m°AUTHOR BY : \n";
+    echo "
+\033[1;34m              +-+-+-+-+-+ +-+-+-+-+-+
+\033[1;34m              |Z|O|N|E|Z| |S|Q|U|A|D|
+\033[1;34m              +-+-+-+-+-+ +-+-+-+-+-+
+";
+    exit();
+}
+
+system("clear");
+echo $banner;
+
+//$video = "https://adscendmedia.com/adwall/api/publisher/25065/profile/5245/user/teyr8j7h/transactions.json?api_key=Tvj4DCl1YexPjnlRwiRgT2CAiQAhVKQZgJdxG3a0Oljh1pz5AbuK3IOK5vU3&currency_adjustment=1&description=videoBG";
+//$task = "https://adscendmedia.com/adwall/api/publisher/25065/profile/5245/user/qrjzytes/transactions.json?api_key=Tvj4DCl1YexPjnlRwiRgT2CAiQAhVKQZgJdxG3a0Oljh1pz5AbuK3IOK5vU3&currency_adjustment=30";
+while (true) {
+    echo "\033[1;31m[\033[1;34m$date\033[1;31m]\033[1;34mMencari Survei";
+    echo " â€¢";
+    sleep(1);
+    echo " â€¢";
+    sleep(1);
+    echo " â€¢";
+    sleep(1);
+    echo " â€¢";
+    sleep(1);
+    echo " â€¢\n\n";
+    sleep(1);
+
+    $dataiid   = Array("266","265","263","264","607","606","605","604","603");
+    $countdata = count($dataiid);
+
+    for ($ii = 0; $ii < $countdata; $ii++) {
+        date_default_timezone_set('Asia/Jakarta');
+
+        $date       = date('H:i:s');
+        $kodid      = "".$dataiid[$ii]."";
+        $databonus2 = "point=50";
+        $bonus2     = "http://app.surfee.co.id/api/v3/surveys/$kodid/additional_point";
+        $headers    = array();
+        $headers[]  = "User-Agent: okhttp/3.14.1";
+        $headers[]  = "Authorization: ".$bearer2;
+        $headers[]  = "Accept-Encoding: application/json";
+        $ch         = curl_init();
+
+        curl_setopt($ch, CURLOPT_URL, $bonus2);
+        curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+        curl_setopt($ch, CURLOPT_POST, 1);
+        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+        curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+        curl_setopt($ch, CURLOPT_POSTFIELDS, $databonus2);
+
+        $resbon3 = curl_exec($ch);
+        $jsq3    = json_decode($resbon3, true);
+
+        echo "\033[1;31m[\033[1;34m$date\033[1;31m]\033[1;34mSuntikan maut  crootz ah ";
+        echo "\033[1;31m\033[1;34mPoint lu\033[1;31m : \033[33;1m".$jsq3["my_points"]."\n";
+
+        if ($jsq3["my_points"] > 75000) {
+            echo "\033[1;31m[\033[1;34m÷\033[1;31m]\033[1;34mWis disit kmfret aja kemaruk semono cukup .\033[1;31mSILIT LU \033[1;31m ";
+            $pointe    = $jsq3["my_points"];
+            $configsur = array('Point' => $pointe);
+            $jsonfile  = json_encode($configsur, JSON_PRETTY_PRINT);
+            file_put_contents('configsur.json', $jsonfile);
+            echo "\n";
+            exit();
+        } else {
+        }
+        sleep(25);
+    }
+}
+?>
